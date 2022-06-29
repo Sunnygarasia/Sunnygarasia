@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sunnygarasia
 - 👀 I’m interested in coding game
 - 🌱 I’m currently learning pyhton
-- 💞️ I’m looking to collaborate on not decided yet
 - 📫 How to reach me sgarasia11@gmail.com
 <!---
 Sunnygarasia/Sunnygarasia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
